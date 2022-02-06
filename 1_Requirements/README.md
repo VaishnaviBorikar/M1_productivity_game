@@ -11,5 +11,14 @@
 
 
 ## SWOT
+* Strenghts
+    * This provides the facility to play quiz game where they can not only judge but also improve their knowledge. 
+* Weakness
+    * Can differentiate the questions on the basis of aspects and can add more questions.Can add level of difficulties.
+* Opportunities
+    * Can search web resourses to add more features to the applications. Can be use at educational institutions as well as in the coporate world.
+* Threats
+    * With the advancement in the technology and the more number of questions, have to add more features.
 
 ## 5W's and 4H's
+* why
