@@ -4,11 +4,10 @@
 ## Requirements
 * The main requirement of the application is to find question and answer. It usually interacts with users.We assume that user will have the minimum general knowledge and should have the availability of internet. The main purpose of this is to develop knowledge and skills.
 
-## High Level Requirements 
-
-
-## Low Level Requirements
-
+## Features
+* Participate
+* View score
+* Exit
 
 ## SWOT
 * Strenghts
