@@ -21,4 +21,16 @@
     * With the advancement in the technology and the more number of questions, have to add more features.
 
 ## 5W's and 4H's
-* why
+* Why
+    * To check the knowledge and improve it.
+* What
+    * We added questions and check whether the user gives correct answer or not.
+* Who
+    * Anyone who wants to check and improve their knowledge and skills.
+* When
+    * Adding and updating the questions time to time.
+* Where
+    * On the online learning platform
+
+* How
+    * Can happen in the form of assessment.
