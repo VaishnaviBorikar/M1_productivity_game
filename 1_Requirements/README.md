@@ -1,35 +1,41 @@
 ## Description
-* Quiz  is the collection of different type of questions.A user can access all of the quiz.There will be  limited questions and for the correct answer user will get credit score.Users can see answers as well.By this application user will come to know his/her level and can learn additional knowledge. 
+* Snakes and ladders is an ancient Indian board game that’s regarded today as a worldwide classic. It requires two or more players and takes place on a board with numbered, gridded squares.The aim of the game is to reach the final square. The game is a race that’s based on sheer luck, and is popular with children. 
 
 ## Requirements
-* The main requirement of the application is to find question and answer. It usually interacts with users.We assume that user will have the minimum general knowledge and should have the availability of internet. The main purpose of this is to develop knowledge and skills.
+* Players roll a die and navigate the board. Landing on a ladder advances a player to a square further up the board, while landing on a snake means they have to go back to a previous square.
 
-## Features
-* Participate
-* View score
-* Exit
+## high-Level Requirements
+
+
+
+## Low-Level Requirements
+
 
 ## SWOT
 * Strenghts
-    * This provides the facility to play quiz game where they can not only judge but also improve their knowledge. 
+    * Easy and Quick game
+    * Easy to play. Can be played by any group of people.
+    * Hepls children to learn counting. 
 * Weakness
-    * Can differentiate the questions on the basis of aspects and can add more questions.Can add level of difficulties.
+    * Children can lead to addiction.
+    * too many snakes lead to chance of player to lose.
+    * can become irritating when at the end player wants 1 to win.
 * Opportunities
-    * Can search web resourses to add more features to the applications. Can be use at educational institutions as well as in the coporate world.
+    * Can be made more interesting.
 * Threats
-    * With the advancement in the technology and the more number of questions, have to add more features.
+    * Advancing in the new games can lead to extiction of the game.
 
 ## 5W's and 4H's
 * Why
-    * To check the knowledge and improve it.
+    * To have fun and compete with friends.
 * What
-    * We added questions and check whether the user gives correct answer or not.
+    * Digitalisation of this game from ancient one.
 * Who
-    * Anyone who wants to check and improve their knowledge and skills.
+    * Anyone can play this game. 
 * When
-    * Adding and updating the questions time to time.
+    * At times of having fun with friends,family and anyone. Learning stages of children.
 * Where
-    * On the online learning platform
+    * Anywhere having place to place a board and to roll a dice.
 
 * How
-    * Can happen in the form of assessment.
+    * Player can roll a dice and update his position till any of the player wins.
