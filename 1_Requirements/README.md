@@ -5,6 +5,12 @@
 * Players roll a die and navigate the board. Landing on a ladder advances a player to a square further up the board, while landing on a snake means they have to go back to a previous square.
 
 ## high-Level Requirements
+|  ID|Description|Status|
+  |---|---|---|
+  | HR01 | User should be able to read data from file | Implemented |
+  | HR02 | User should be able to modify the data  | Implemented |
+  | HR05 | When a player wins, The game should print a message and exit the program | Implemented |
+  | HR06 | The game should correctly calculate and update the position values based on the roll | Implemented |
 
 
 
