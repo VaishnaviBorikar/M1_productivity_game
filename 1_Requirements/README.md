@@ -15,6 +15,11 @@
 
 
 ## Low-Level Requirements
+|  ID|Description|Status|
+  |---|---|---|
+  | LR01 | Good readability of the code | Implemented |
+  | LR02 | The messages print by the game should encourage the players to play another round | Impemented|
+  | LR03 | The game code should be open for development | Implemented |
 
 
 ## SWOT
