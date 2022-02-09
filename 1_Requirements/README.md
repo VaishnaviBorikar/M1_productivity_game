@@ -5,7 +5,7 @@
 * Players roll a die and navigate the board. Landing on a ladder advances a player to a square further up the board, while landing on a snake means they have to go back to a previous square.
 
 ## High-Level Requirements
-|
+ 
 
 
 
