@@ -12,9 +12,7 @@
   | HR02 | User should be able to modify the data  | Implemented |
   | HR03 | When a player wins, The game should print a win message and exit the game | Implemented |
   | HR04 | The game should correctly calculate and update the position values based on the roll | Implemented
-=======
- 
->>>>>>> 3311fae9f3f1bcbff48074ef2b6265bc146f6caa
+
 
 
 
