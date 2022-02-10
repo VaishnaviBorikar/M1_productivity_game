@@ -1,11 +1,11 @@
 ## Description
 * Snakes and ladders is an ancient Indian board game that’s regarded today as a worldwide classic. It requires two or more players and takes place on a board with numbered, gridded squares.The aim of the game is to reach the final square. The game is a race that’s based on sheer luck, and is popular with children. 
 </br> 
-
+</br>
 ## Requirements
 * Players roll a die and navigate the board. Landing on a ladder advances a player to a square further up the board, while landing on a snake means they have to go back to a previous square.
 </br>
-
+</br>
 ## High-Level Requirements
 |  ID|Description|Status|
   |---|---|---|
@@ -22,13 +22,13 @@
   | LR03 | The game code should be open for development | Implemented |
 
 ## SWOT
-* Strenghts
-    * Easy and Quick game
-    * Easy to play. Can be played by any group of people.
-    * Hepls children to learn counting. 
-* Weakness
-    * Children can lead to addiction.
-    * too many snakes lead to chance of player to lose.
+Strenghts
+-Easy and Quick game
+-Easy to play. Can be played by any group of people.
+-Hepls children to learn counting. 
+Weakness
+-Children can lead to addiction.
+-too many snakes lead to chance of player to lose.
     * can become irritating when at the end player wants 1 to win.
 * Opportunities
     * Can be made more interesting.
