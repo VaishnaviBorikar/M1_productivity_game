@@ -1,5 +1,5 @@
 ## Description
-
+</br>
 
 * Snakes and ladders is an ancient Indian board game that’s regarded today as a worldwide classic. It requires two or more players and takes place on a board with numbered, gridded squares.The aim of the game is to reach the final square. The game is a race that’s based on sheer luck, and is popular with children. 
 </br> 
