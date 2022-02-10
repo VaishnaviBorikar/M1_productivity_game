@@ -1,8 +1,4 @@
 # M1_productivity_game
 
-## Milestone-1
-* folder  structure
-* Idea
-* Reqirements
-* Design
-* Test plan
+## Build
+[![C/C++ CI](https://github.com/VaishnaviBorikar/M1_productivity_game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VaishnaviBorikar/M1_productivity_game/actions/workflows/c-cpp.yml)
