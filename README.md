@@ -1,5 +1,18 @@
 # M1_productivity_game
 
+## Introduction
+-One hundred squares full of traps and tricks! Roll a dice and see your luck.Ladders will take you up but snakes will take you down. It is a fun and an intresting game played by all age groups. 
+
+## Folder structure
+
+| Folder | Description |
+| :---: | :---: |
+| `1_requirements` | Requirements and analysis |
+| `2_architecture` | Structural and Behavioural diagram |
+| `3_implementation` | code |
+| `4_testplan` | test table |
+| `5_images` | output images |
+
 ## Build
 [![C/C++ CI](https://github.com/VaishnaviBorikar/M1_productivity_game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VaishnaviBorikar/M1_productivity_game/actions/workflows/c-cpp.yml)
 
